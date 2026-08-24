@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SafetyApp</string>
+
+    <string name="enter_pin">Enter Pin</string>
+    <string name="pin_dots">• • • •</string>
+
+    <string name="num_0">0</string>
+    <string name="num_1">1</string>
+    <string name="num_2">2</string>
+    <string name="num_3">3</string>
+    <string name="num_4">4</string>
+    <string name="num_5">5</string>
+    <string name="num_6">6</string>
+    <string name="num_7">7</string>
+    <string name="num_8">8</string>
+    <string name="num_9">9</string>
+
+    <string name="emergency_contacts">Emergency Contacts</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="no_contacts">No contacts added</string>
+
+    <string name="safety_timer">Safety Timer</string>
+    <string name="timer_default">00:00</string>
+    <string name="start_timer">Start Timer</string>
+</resources>

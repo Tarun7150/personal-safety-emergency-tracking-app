@@ -1,0 +1,22 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:gravity="center">
+
+    <EditText
+        android:id="@+id/etOTP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Enter OTP"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/btnVerify"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Verify OTP"
+        android:layout_marginTop="20dp"/>
+</LinearLayout>
